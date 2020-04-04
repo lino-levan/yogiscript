@@ -1,0 +1,14 @@
+yogi bro = "yogi is king";
+
+yogi brother{
+  console.log(bro);
+  yogi testingtwo = 0;
+  console.log(testingtwo);
+}
+
+yogi brugery= {
+  x:0,
+  yogi:0
+};
+
+brother();

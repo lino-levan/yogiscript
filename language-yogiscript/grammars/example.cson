@@ -1,0 +1,11 @@
+scopeName: 'source.example'
+name: 'Example'
+fileTypes: [ 'example' ]
+limitLineLength: false
+patterns: [
+  {
+    comment: 'Use this to explain the function of the rule, if necessary'
+    name: 'comment.line.example'
+    match: '#.*$'
+  }
+]
